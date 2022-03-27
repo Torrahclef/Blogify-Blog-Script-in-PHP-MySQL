@@ -1,0 +1,2 @@
+# Blogify Blog Script in PHP/MySQL
+ Blogify is a PHP/MySQL script that allows you to start your own blog for free. Its a complete blog script and its totally free to everyone to download. If you have any difficulty in installing this script, please contact me via my mobile +2348138652645 (Whatsapp) or email awolu_faith@live.com. Let us create a whatsapp group chat for sourcecodester users. Download and install this script its free and easy. Facebook.com/torrahclef
